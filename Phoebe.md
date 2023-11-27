@@ -1,3 +1,8 @@
+___
+layout: page
+title: Phoebe
+___
+
 The light of my life, she is an angel.
 When we adopted her she had trouble adjusting to her new food and was quite stinky as a result. This is where she got her name, from the FRIENDS song "Smelly Cat" by Phoebe Buffet
 She is the smartest pet we have, and she is digified and sweet. 
