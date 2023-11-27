@@ -1,1 +1,9 @@
 theme: minima
+title: Pets, the Good and the Bad
+author: Sam Ferrier
+header_pages: 
+- Richard.md
+- Phoebe.md
+- Sadie.md
+- Levi.md
+- Peanut.md
