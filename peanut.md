@@ -1,3 +1,8 @@
+---
+layout: page
+title: Peanut
+---
+
 She's a small cat, hence her name.
 I would almost call her a baby but she's too evil for that. 
 I think she's a siamese mix, and she has the personality to show.
