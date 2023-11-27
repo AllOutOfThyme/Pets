@@ -1,7 +1,3 @@
 # Pets
-All About My Pets!
-<li>[Phoebe]</li>
-<li><a href="#Peanut">Peanut</a></li>
-<li><a href="#Sadie">Sadie</a></li>
-<li><a href="#Levi">Levi</a></li>
-<li><a href="#Richard">Richard</a></li>
+All About My Pets! I have pets, I will talk about them here.
+
