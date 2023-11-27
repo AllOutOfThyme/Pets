@@ -1,3 +1,7 @@
+___
+layout: page
+title: Richard the Angry Fish
+___
 Richard is a fish, and the only fish I will mention by name.
 He's very pretty, and also a cold-blooded killer responsible for the deaths of two other fish.
 He's the reason we have fish jail, and to date he has been it's only inhabitant. He served several weeks in total before his release, and he is at high risk of reoffending
