@@ -1,6 +1,6 @@
 # Pets
 All About My Pets!
-<li><a href="#Phoebe">Phoebe</a></li>
+<li>[Phoebe]</li>
 <li><a href="#Peanut">Peanut</a></li>
 <li><a href="#Sadie">Sadie</a></li>
 <li><a href="#Levi">Levi</a></li>
