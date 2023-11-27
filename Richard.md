@@ -1,6 +1,6 @@
 ___
 layout: page
-title: Richard the Angry Fish
+title: Richard
 ___
 Richard is a fish, and the only fish I will mention by name.
 He's very pretty, and also a cold-blooded killer responsible for the deaths of two other fish.
